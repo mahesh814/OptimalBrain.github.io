@@ -6,6 +6,9 @@
 margin-left:0px !important;
 margin-right:0px !important;
 }
+h1{
+display:none !important;
+}
 </style>
 <title>
 Youtube
