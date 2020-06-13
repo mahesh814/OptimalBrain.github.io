@@ -3,8 +3,8 @@
 <meta charset="UTF-8">
 <style>
 .container-lg{
-margin-left:none !important;
-margin-right:none !important;
+margin-left:0px !important;
+margin-right:0px !important;
 }
 </style>
 <title>
